@@ -1,0 +1,10 @@
+[
+  {"name": "AirBeat Pro Earbuds", "price": 79.0, "stock": 24},
+  {"name": "VoltMax 20000mAh Power Bank", "price": 39.0, "stock": 0},
+  {"name": "PixelView 27in 4K Monitor", "price": 329.0, "stock": 6},
+  {"name": "KeyForge Mechanical Keyboard", "price": 89.0, "stock": 15},
+  {"name": "SwiftGlide Wireless Mouse", "price": 29.0, "stock": 52},
+  {"name": "HomeCam 2K Security Camera", "price": 49.0, "stock": 3},
+  {"name": "TurboCharge 65W GaN Charger", "price": 35.0, "stock": 40},
+  {"name": "SoundBlock Bluetooth Speaker", "price": 59.0, "stock": 11}
+]
